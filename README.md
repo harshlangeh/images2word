@@ -5,7 +5,6 @@ If you have multiple images in a folder and want to create a Word file containin
 
 ## Steps:
 1. Set the folder path in `index.js`. [folderPath]
-2. Run `npm install` to install dependencies.
-3. Execute the script with `node index.js`.
+2. Execute the script with `node index.js`.
 
 
